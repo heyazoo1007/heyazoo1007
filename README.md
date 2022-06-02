@@ -1,4 +1,7 @@
-### Hi there 👋
+### 안녕하세요 👋
+어재보다 오늘 더 발전하려는 김예진입니다.
+지금 할 수 있는 것에 집중해 문제를 해결하고, 발전하기 위해 노력합니다.
+주어진 일은 책임감 있게 하고, 소통을 통해 더 나은 협업을 지향합니다.
 
 <!--
 **heyazoo1007/heyazoo1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +21,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyazoo1007)](https://github.com/anuraghazra/github-readme-stats)
 
