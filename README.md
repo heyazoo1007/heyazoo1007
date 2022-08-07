@@ -7,6 +7,10 @@
 * 주어진 일은 책임감 있게 하고, 소통을 통해 더 나은 협업을 지향합니다.
 <br/> 
 
+Details
+---
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://mixed-leotard-ccd.notion.site/Portfolio-Yejin-Kim-11d8d573e1b44989ab5829af7e339cc1)
+
 <!--
 **heyazoo1007/heyazoo1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,9 +31,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/><br/> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white"/><br/> 
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/><br/> 
-
-<br/> 
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/> 
 
 💡Statistics💡
 ---
