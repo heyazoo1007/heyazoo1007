@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 💡Statistics💡
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyazoo1007&layout=compact)](https://github.com/heyazoo1007/github-readme-stats) &nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyazoo1007&layout=compact)](https://github.com/heyazoo1007/github-readme-stats) &nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyazoo1007&show_icons=true&theme=dark)
 
 
