@@ -29,9 +29,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white"/><br/> 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> &nbsp; <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/><br/> 
 
+<br/> 
 
 💡Statistics💡
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyazoo1007&layout=compact)](https://github.com/heyazoo1007/github-readme-stats) &nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyazoo1007&show_icons=true&theme=dark)
+(https://github.com/heyazoo1007/github-readme-stats) &nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyazoo1007&show_icons=true&theme=dark)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyazoo1007&layout=compact&theme=dark)]
 
 
