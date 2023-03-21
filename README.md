@@ -8,7 +8,7 @@
 
 Details
 ---
-[<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://mixed-leotard-ccd.notion.site/Portfolio-Yejin-Kim-11d8d573e1b44989ab5829af7e339cc1)
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://mixed-leotard-ccd.notion.site/c92418a986df4ebcb0a62cf05ac4beb2)
 
 <!--
 **heyazoo1007/heyazoo1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
