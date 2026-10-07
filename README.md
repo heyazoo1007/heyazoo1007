@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 💻 Skills 💻
 ---
 - Fluent in technical/communicational English
+
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">&nbsp;
 <img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">&nbsp;
 <img src ="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"></br> 
@@ -41,6 +42,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>&nbsp;<img src= "https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=black">&nbsp;<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/><br/> 
 <img src = "https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/>&nbsp;<br/> 
+
+<br></br>
 
 💡Statistics💡
 ---
